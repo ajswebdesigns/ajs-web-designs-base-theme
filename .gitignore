@@ -6,7 +6,4 @@ dist/
 
 
 
-# Ignore build config files
-tailwind.config.js
-
 
