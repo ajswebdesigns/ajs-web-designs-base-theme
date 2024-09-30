@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "tailwind": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch",
-    "watch": "browser-sync start --proxy 'http://localhost:10038' --files 'dist/*.css, *.php, *.js'",
+    "watch": "browser-sync start --proxy 'http://localhost:10219' --files 'dist/*.css, *.php, *.js'",
     "dev": "concurrently \"npm run tailwind\" \"npm run watch\""
   },
   "keywords": [],
