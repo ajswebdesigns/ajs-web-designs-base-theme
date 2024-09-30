@@ -6,10 +6,6 @@ dist/
 
 
 
-# Ignore package files
-package-lock.json
-package.json
-
 # Ignore build config files
 tailwind.config.js
 
